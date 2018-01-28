@@ -1,6 +1,6 @@
-# README
+# ReadME
 
-These instructions will help setup you
+These instructions will help setup the project for assignment 1.
 
 1. Creating the virtual environment. 
 
