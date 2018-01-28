@@ -5,15 +5,17 @@ These instructions will help setup you
 1. Creating the virtual environment. 
 
 Input these commands into terminal:
-
+```
 pip install virtualenv
 virtualenv venv
+```
 
 2. Activate the virtualenv.
 
 Input this command into terminal:
-
+```
 source venv/bin/activate
+```
 
 ### User Defined Python Packages
 
